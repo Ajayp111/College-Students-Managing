@@ -1,0 +1,28 @@
+[
+  {
+    "branch": "Computer Science",
+    "hod": "Dr. Smith",
+    "cr": "Alice Johnson"
+  },
+  {
+    "branch": "EEE",
+    "hod": "Dr. Brown",
+    "cr": "Emily Davis"
+  },
+
+  {
+    "branch": "Electrical Engineering",
+    "hod": "Dr. Brown",
+    "cr": "Emily Davis"
+  },
+  {
+    "branch": "CSE",
+    "hod": "Dr. Brown",
+    "cr": "Emily Davis"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "hod": "Dr. Brown",
+    "cr": "Emily Davis"
+  }
+]
